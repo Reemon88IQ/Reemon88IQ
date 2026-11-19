@@ -5,7 +5,7 @@
 I make YouTube videos with code instead of editing software - motion graphics, explainers and music visuals - and I
 build the tools that make that fast. Every frame is drawn on purpose, so a video comes out the same every time.
 
-### 🌑 Shadow
+### <img src="https://raw.githubusercontent.com/Reemon88IQ/shadow/main/assets/shadow_1024.png" alt="" width="26" height="26" align="top"> Shadow
 
 **[Shadow](https://github.com/Reemon88IQ/shadow)** is a free Windows app that turns three.js / canvas HTML scenes and
 Blender files into finished MP4 videos - 1080p, 30 fps, with sound, for YouTube (16:9) and Shorts (9:16) - with a quality
