@@ -5,7 +5,7 @@
 I make YouTube videos with code instead of editing software - motion graphics, explainers and music visuals - and I
 build the tools that make that fast. Every frame is drawn on purpose, so a video comes out the same every time.
 
-I run **[Shadow Studio](https://github.com/ShadowStudioApps)** - free Windows tools for video creators. Its first app:
+I run **[Shadow Studio](https://github.com/ShadowStudioApps)** - an independent studio making free, practical apps of all kinds. Its first app:
 
 ### <img src="https://raw.githubusercontent.com/ShadowStudioApps/seekframe/main/assets/shadow_1024.png" alt="" width="26" height="26" align="top"> Seekframe
 
