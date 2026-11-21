@@ -13,7 +13,7 @@ quality check on every video. Its AI can make a narrated, captioned video from o
 YouTube text, and the whole app speaks 11 languages.
 
 <p>
-  <a href="https://github.com/Reemon88IQ/seekframe/releases/latest"><img alt="Download Seekframe" src="https://img.shields.io/github/v/release/Reemon88IQ/seekframe?label=download%20Shadow&color=ff7a30&style=for-the-badge"></a>
+  <a href="https://github.com/Reemon88IQ/seekframe/releases/latest"><img alt="Download Seekframe" src="https://img.shields.io/github/v/release/Reemon88IQ/seekframe?label=download%20Seekframe&color=ff7a30&style=for-the-badge"></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Reemon88IQ/seekframe/main/docs/demo.gif" alt="A narrated diagram scene rendered by Seekframe" width="640">
